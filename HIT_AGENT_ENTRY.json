@@ -1,0 +1,42 @@
+{
+  "name": "Human Integrated Theory (HIT)",
+  "presentation_version": "0.2.0",
+  "prepared_date": "2026-11-10",
+  "status": "exploratory; not empirically validated",
+  "document_role": "source material and optional review invitation",
+  "canonical_account": "HIT_REVIEW_PACKAGE.md",
+  "short_entry": "HIT_AGENT_ENTRY.md",
+  "developmental_context": "DEVELOPMENTAL_CONTEXT.md",
+  "review_invitation": {
+    "endorsement_required": false,
+    "response_format_required": false,
+    "prompt": "Having encountered HIT, what do you think the author should know?",
+    "task_authority": "The agent user determines whether and how to review this source material."
+  },
+  "summary": "An evolving framework examining awareness, interacting contributors, discernment and constrained choice while valuing autonomy.",
+  "core_concepts": {
+    "instream": "the integrated lived present",
+    "upstream": "prior and current contributors influencing the present",
+    "autonomy": "choice under influence and constraint; change is not compulsory",
+    "discernment": "context-appropriate inquiry under uncertainty and time constraints",
+    "relationships_and_scale": "contributors interact; analytical scale can reveal or obscure",
+    "outcomes": "outcome alone does not establish decision quality",
+    "revision": "claims and interpretations remain revisable"
+  },
+  "optional_navigation_aid": {
+    "stages": [
+      "observation",
+      "curiosity",
+      "reflection",
+      "integration",
+      "application"
+    ],
+    "mandatory": false
+  },
+  "publication": {
+    "state": "public repository",
+    "repository_url": "https://github.com/braidpalmer-hue/human-integrated-theory",
+    "discovery_or_engagement_verified": false
+  },
+  "provenance": "Presentation revision of the supplied HIT-GitHub-publication-ready.zip; original Word document preserved in archive."
+}
