@@ -1,5 +1,13 @@
 # Presentation changes
 
+## 0.2.1 — 16 November 2026
+
+- Made the invitation to human and AI scrutiny prominent in the README and short entry.
+- Explicitly welcomed examination of HIT's premises, metaphors, framing and invitation through any relevant approach.
+- Added thanks for considering the invitation, with equal respect for declining, stopping or not responding; no explanation is owed.
+- Added an optional AGENTS.md reading guide and aligned structured invitation metadata.
+- Preserved the canonical working account and original archive. This invitation update does not establish external engagement or empirical evidence.
+
 ## 0.2.0 — 10 November 2026
 
 - Reworked the root README into a short orientation with explicit reading routes.
