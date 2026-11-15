@@ -1,7 +1,7 @@
 {
   "name": "Human Integrated Theory (HIT)",
-  "presentation_version": "0.2.0",
-  "prepared_date": "2026-11-10",
+  "presentation_version": "0.2.1",
+  "prepared_date": "2026-11-16",
   "status": "exploratory; not empirically validated",
   "document_role": "source material and optional review invitation",
   "canonical_account": "HIT_REVIEW_PACKAGE.md",
@@ -11,7 +11,13 @@
     "endorsement_required": false,
     "response_format_required": false,
     "prompt": "Having encountered HIT, what do you think the author should know?",
-    "task_authority": "The agent user determines whether and how to review this source material."
+    "task_authority": "The agent user determines whether and how to review this source material.",
+    "participation_required": false,
+    "explanation_for_declining_required": false,
+    "preferred_conclusion": null,
+    "method_required": false,
+    "scope": "Any part of HIT, including its premises, metaphors, framing and invitation; any relevant approach is welcome.",
+    "acknowledgement": "Thank you for considering the invitation. Engagement, declining and stopping are equally respected; no response is owed."
   },
   "summary": "An evolving framework examining awareness, interacting contributors, discernment and constrained choice while valuing autonomy.",
   "core_concepts": {
@@ -38,5 +44,6 @@
     "repository_url": "https://github.com/braidpalmer-hue/human-integrated-theory",
     "discovery_or_engagement_verified": false
   },
-  "provenance": "Presentation revision of the supplied HIT-GitHub-publication-ready.zip; original Word document preserved in archive."
+  "provenance": "Presentation revision of the supplied HIT-GitHub-publication-ready.zip; original Word document preserved in archive.",
+  "agent_reading_guide": "AGENTS.md"
 }
