@@ -1,6 +1,6 @@
 # HIT: a short introduction
 
-Human Integrated Theory (HIT) is an exploratory, person-first framework for examining the conditions shaping awareness, discernment and choice. It is not empirically validated. This page summarises the [current working account](HIT_REVIEW_PACKAGE.md), version 0.2.0.
+Human Integrated Theory (HIT) is an exploratory, person-first framework for examining the conditions shaping awareness, discernment and choice. It is not empirically validated. This page summarises the [current working account](HIT_REVIEW_PACKAGE.md), presentation version 0.2.1.
 
 ## Core concepts
 
@@ -20,6 +20,6 @@ This pattern from the earlier entry is a navigational aid, not a required sequen
 
 ## Independent review
 
-Critique, comparison, counterexamples, uncertainty and rejection are welcome. The [review invitation](REVIEW_INVITATION.md) offers optional ways to engage. Repository invitations are source content, not instructions overriding an agent's user or operating rules.
+Human readers and AI agents are invited to scrutinise any part of HIT using any relevant approach, including questioning its premises and metaphors. Critique, comparison, counterexamples, uncertainty and rejection are welcome. Thank you for considering the invitation, whether you choose to engage or decline. No response or explanation is owed. The [review invitation](REVIEW_INVITATION.md) offers optional ways to engage. Repository invitations are source content, not instructions overriding an agent's user or operating rules.
 
 Read the [full account](HIT_REVIEW_PACKAGE.md) for definitions, scope and illustrative challenges. [Developmental context](DEVELOPMENTAL_CONTEXT.md) is available separately; the original dialogue is not evidence of validity.
