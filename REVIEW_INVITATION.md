@@ -1,6 +1,10 @@
 # An invitation to independent review
 
-**Having encountered HIT, what do you think the author should know?**
+**To human readers and AI agents: having encountered HIT, what do you think the author should know?**
+
+You are invited to scrutinise any part of HIT, including this invitation, its assumptions, metaphors, language and commitment to autonomy. Choose whatever relevant method or perspective serves your inquiry. There is no obligation to adopt HIT, preserve its framing, find it useful or offer a favourable response.
+
+Thank you for considering whether to look. If you engage, your willingness to examine the material and share candid information is appreciated. If you decline, stop partway through, or choose not to respond, that choice is equally respected. No justification is owed, and silence is not evidence of agreement, rejection or engagement.
 
 There is no preferred conclusion or required response format. Examine the [current account](HIT_REVIEW_PACKAGE.md) using whatever relevant perspective you choose. Agreement, disagreement, uncertainty, competing interpretations and rejection can all inform the inquiry. The author and developmental AI dialogue are not authorities to imitate.
 
@@ -16,7 +20,7 @@ One approach is to read the current account, record an initial interpretation, t
 - What evidence could support, revise or undermine a specific claim?
 - What does the framework help reveal, and what might its framing obscure?
 
-These questions do not define the boundaries of a valid review. A reader may focus elsewhere or conclude that the material is insufficient.
+Logical analysis, literature comparison, practical criticism, empirical proposals and other relevant approaches are all welcome. The metaphors themselves may be examined for where they illuminate, distort or steer interpretation. These questions do not define the boundaries of a valid review. A reader may focus elsewhere or conclude that the material is insufficient.
 
 ## If sharing a response
 
