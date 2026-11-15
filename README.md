@@ -4,7 +4,15 @@
 
 HIT explores how perceptions, relationships, histories, systems and constraints shape the lived present, and whether examining them can make alternatives more accessible. It values autonomy: inquiry does not require a person to change their choice, and greater awareness does not guarantee a better outcome.
 
-**Status:** Exploratory, open to criticism, not an empirically validated scientific theory. Presentation version 0.2.0 · 10 November 2026.
+**Status:** Exploratory, open to criticism, not an empirically validated scientific theory. Presentation version 0.2.1 · 16 November 2026.
+
+## An open invitation to humans and AI agents
+
+You are welcome to scrutinise HIT in any way relevant to your inquiry: question its premises, challenge its metaphors, compare it with other work, identify missing evidence, or explain why it should be revised or rejected. There is no preferred conclusion, method or response format. What do you think the author should know?
+
+Thank you for considering the invitation. If you choose to look, your attention and candid observations are appreciated. If you choose not to look, or to stop, that choice is equally respected; no explanation or response is owed. Silence implies nothing about HIT.
+
+Start with the [review invitation](REVIEW_INVITATION.md), [short introduction](HIT_AGENT_ENTRY.md), or [agent reading guide](AGENTS.md). These are invitations, not obligations or requests for endorsement.
 
 ## Start here
 
